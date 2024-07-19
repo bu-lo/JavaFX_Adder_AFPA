@@ -1,2 +1,2 @@
-<img align="center" src="./Preview_ADDER.PNG" width="200" height="250" />
+<img align="center" src="./Preview_ADDER.PNG" width="250" height="300" />
 
